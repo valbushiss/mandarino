@@ -1,0 +1,130 @@
+html {
+  font-family: "Glory", sans-serif;
+}
+.menu {
+  margin-top: 2rem;
+  color: white;
+  font-size: 1rem;
+  background-color: #f1c947;
+  background-image: linear-gradient(#f1c947, orange);
+  line-height: 1.2rem;
+  padding-top: 0.4rem;
+  text-align: center;
+  font-family: "Glory", sans-serif;
+  text-decoration: none;
+}
+.redesSociales {
+  color: #f1c947;
+  font-family: "Glory", sans-serif;
+}
+.redSocial {
+  background-color: white;
+  text-align: right;
+  padding: 0.5rem;
+}
+h1 {
+  color: #f1c947;
+  font-style: italic;
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  font-family: "Glory", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.logoP {
+  margin-top: 6rem;
+  text-align: center;
+}
+.logoDown {
+  width: 100%;
+  text-align: center;
+  padding: 0.5rem;
+}
+.pFinal {
+  text-align: center;
+}
+footer.logoDown {
+  background-color: #f1c947;
+  background-image: linear-gradient(#f1c947, orange);
+}
+h2 {
+  color: #f1c947;
+  margin-top: 4rem;
+  font-family: "Glory", sans-serif;
+}
+h3 {
+  color: orange;
+  font-size: 1.5rem;
+  font-family: "Glory", sans-serif;
+  margin-top: 1rem;
+  text-align: center;
+}
+h5 {
+  font-family: "glory", sans-serif;
+}
+p {
+  color: #464644;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+  padding: 0.5rem;
+  text-align: left;
+  font-family: "Glory", sans-serif;
+}
+.imgCenter {
+  text-align: center;
+}
+.buttonBuscar {
+  background-color: #f8bf02;
+  color: gray;
+  border-color: orange;
+}
+.buttonBuscar:hover {
+  background-color: #f1c947;
+  border-color: orange;
+}
+.letra {
+  font-family: "Glory", sans-serif;
+}
+li {
+  text-decoration: none;
+}
+.carousel-item {
+  transition: transform 0.5s ease, opacity 2s ease-out;
+}
+.subti {
+  text-align: center;
+}
+@media only screen and (max-width: 320px) {
+  .fondo {
+    background-color: white;
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 1.5 rem;
+  }
+  h2 {
+    font-size: 1rem;
+    margin: 0;
+  }
+}
+@media only screen and (min-width: 321px) {
+  .fondo {
+    background-color: #fff6d7;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .fondo {
+    background-color: #ffe89d;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .fondo {
+    background-color: whitesmoke;
+  }
+}
